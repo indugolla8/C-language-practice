@@ -1,2 +1,1 @@
-# C-language-practice
-My C programming practice programs
+In this respository i have kept all my practice programs in c-language.
