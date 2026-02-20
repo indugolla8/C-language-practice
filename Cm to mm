@@ -1,0 +1,10 @@
+//Convert centimeters to meters
+#include<stdio.h>
+int main()
+{
+    float cm,mm;
+    printf("Enter centimeters: ");
+    scanf("%f",&cm);
+    mm=cm/100;
+    printf("Meters:%.2f",mm);
+}
